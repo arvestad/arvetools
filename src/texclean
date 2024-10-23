@@ -1,0 +1,5 @@
+RMFLAGS="-f"
+rm  $RMFLAGS  *.aux
+rm  $RMFLAGS  *.log
+rm  $RMFLAGS  *.toc
+rm  $RMFLAGS  *.out
